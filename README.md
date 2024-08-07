@@ -1,5 +1,8 @@
 // JavaScript Chatbot // -------------------
 
+![216shots_so](https://github.com/user-attachments/assets/d43fb832-a1f6-4435-b9d1-4e3c426aeeef)
+
+
 // Overview: // This is a simple chatbot implemented in JavaScript. It interacts with users by taking their messages // and generating responses using the OpenAI GPT-3.5 Turbo model.
 
 // Features: // - Sends user messages to the GPT-3.5 Turbo model for generating responses. // - Displays chat history in a chatbox. // - Provides a user-friendly interface with an input field and send button. // - Toggles the chatbot's visibility with a chatbot-toggler button.
